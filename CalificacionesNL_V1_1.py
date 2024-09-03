@@ -13,4 +13,3 @@ class Calificador:
             return "C"
         else:
             return "F"
-
